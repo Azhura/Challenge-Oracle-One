@@ -1,2 +1,3 @@
 # Challenge-Oracle-One
-Proyectos y Desafíos
+Challenge Oracle ONE Semana 1 y 2:
+Construye un encriptador de texto con Javascript
